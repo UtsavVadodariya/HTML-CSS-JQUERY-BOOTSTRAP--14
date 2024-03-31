@@ -251,3 +251,33 @@
     border: none;
     padding: 8px 5px;
 }
+
+.main5{
+    border: 1px solid;
+    padding-top: 70px;
+}
+.d9 p{
+    font-size: 18px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.d9 h2{
+    font-size: 48px;
+    color: #b01c1a;
+    font-family: "Fondamento", cursive;
+
+}
+
+.d10{
+    border: 1px solid;
+}
+.d11{
+    height: 391.2px;
+    width: 285px;
+    overflow: hidden;
+}
+.d11 video{
+    width: 100%;
+}
