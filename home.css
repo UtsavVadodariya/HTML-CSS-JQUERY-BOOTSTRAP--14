@@ -357,3 +357,18 @@
     font-family: "Source Sans 3", sans-serif;
 
 }
+
+.main7{
+    background-color: #b01c1a;
+    padding: 22px 0px;
+    margin: 0px 0px 90px;
+}
+.main7 span{
+    font-size: 26px;
+    font-family: "Fondamento", cursive;
+    color: #fdc417;
+   margin-left: 15px;
+}
+.main7 span svg{
+    margin-left: 15px;
+}
