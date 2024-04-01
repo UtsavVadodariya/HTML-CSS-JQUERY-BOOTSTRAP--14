@@ -418,8 +418,8 @@
 
 
 .main9{
-    border: 1px solid;
     padding: 70px 40px 0px;
+    margin-bottom: 60px;
 }
 .d21 p{
     font-size: 18px;
@@ -435,13 +435,43 @@
     font-family: "Fondamento", cursive;
 
 }
-
-.d22 .col{
-    border: 1px solid;
-    padding-top: 64px;
-}
 .d22 i{
     color: #fdc417;
     font-size: 13px;
     margin-bottom: 17px;
+}
+.d22 a{
+    text-decoration: none;
+    color: #0d0d0d;
+    font-size: 18px;
+    font-family: "Source Sans 3", sans-serif;
+    position: relative;
+    top: -20px;
+}
+.d22 h3{
+    font-size: 18px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: -10px;
+}
+.d23{
+    margin-left: 80px;
+    padding-top: 64px;
+
+}
+.d22 img{
+    height: 364px;
+    width: 312px;
+}
+.d24{
+    padding-top: 37px;
+    margin-left: 37px;
+
+}
+
+
+.main10{
+    background-color: #b01c1a;
 }
