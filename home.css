@@ -415,3 +415,33 @@
     font-family: "Source Sans 3", sans-serif;
 
 }
+
+
+.main9{
+    border: 1px solid;
+    padding: 70px 40px 0px;
+}
+.d21 p{
+    font-size: 18px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 0px 0px 7px;
+}
+.d21 h2{
+    font-size: 48px;
+    color: #b01c1a;
+    font-family: "Fondamento", cursive;
+
+}
+
+.d22 .col{
+    border: 1px solid;
+    padding-top: 64px;
+}
+.d22 i{
+    color: #fdc417;
+    font-size: 13px;
+    margin-bottom: 17px;
+}
