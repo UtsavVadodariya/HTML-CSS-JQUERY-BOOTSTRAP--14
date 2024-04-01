@@ -372,3 +372,46 @@
 .main7 span svg{
     margin-left: 15px;
 }
+
+
+.main8{
+    border-bottom: 1px solid;
+    margin-top: 100px;
+    padding-bottom: 80px;
+
+}
+.d18 h4{
+    font-size: 18px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.d18 h2{
+    font-size: 48px;
+    color: #b01c1a;
+    font-family: "Fondamento", cursive;
+
+}
+
+.d20{
+    height: 188px;
+    width: 188.33px;
+    border-radius: 50%;
+    border: 1px transparent;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.d20 img{
+    height: 100%;
+    width: 100%;
+}
+.d19 p{
+    margin-top: 30px;
+    font-size: 18px;
+    color: #0d0d0d;
+    font-weight: bold;
+    letter-spacing: 1px ;
+    font-family: "Source Sans 3", sans-serif;
+
+}
