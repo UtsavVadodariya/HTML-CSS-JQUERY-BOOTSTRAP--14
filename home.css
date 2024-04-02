@@ -473,5 +473,63 @@
 
 
 .main10{
-    background-color: #b01c1a;
+    margin-top: -90px;
+    padding: 60px 0px 90px;
+    background: #F5E7CB url(img/1082.svg) center;
+
+}
+.d26{
+    margin-left: 134.6px;
+    margin-top: 50px;
+}
+.d26 p{
+    font-family: "Eczar", serif;
+    font-size: 22px;
+    color: #0d0d0d;
+    margin: 10px 0px 9px;
+}
+.d26 h2{
+    font-size: 48px;
+    color: #b01c1a;
+    font-family: "Fondamento", cursive;
+
+}
+.d26 a{
+    font-size: 18px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    text-decoration: none;
+    line-height: 10px;
+}
+.d26 a span{
+    font-weight: 600;
+}
+.d26 button{
+    display: block;
+    width: 218px;
+    background-color: transparent;
+    color: white;
+    background-image: url(img/1033.svg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 17px;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+}
+
+.im1{
+    height: 310px;
+    width: 248px;
+    margin-top: 273px;
+    margin-left: -80px;
+}
+.im2{
+    height: 584px;
+    width: 429px;
+    border-radius: 275px 275px 0px 0px;
+    margin-left: 30px;
 }
