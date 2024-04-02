@@ -476,6 +476,7 @@
     margin-top: -90px;
     padding: 60px 0px 90px;
     background: #F5E7CB url(img/1082.svg) center;
+    border-radius: 0px 0px 50px 50px;
 
 }
 .d26{
@@ -509,9 +510,8 @@
     width: 218px;
     background-color: transparent;
     color: white;
-    background-image: url(img/1033.svg);
+    background-image: url(https://ptal.in/cdn/shop/t/7/assets/btn-bg.svg?v=8971955%E2%80%A6img/1033.svg);
     background-position: center;
-    background-size: 100%;
     background-repeat: no-repeat;
     font-size: 17px;
     font-family: "Source Sans 3", sans-serif;
@@ -519,6 +519,7 @@
     margin-top: 20px;
     border: none;
     text-align: center;
+    height: 55px;
 }
 
 .im1{
@@ -532,4 +533,86 @@
     width: 429px;
     border-radius: 275px 275px 0px 0px;
     margin-left: 30px;
+}
+
+
+
+.main11{
+    margin-top: 90px;
+}
+.d27{
+    height: 613px;
+    width: 510px;
+    border-radius: 255px 255px 0px 0px;
+    overflow: hidden;
+    margin-left: 100px;
+}
+.d27 img{
+    height: 100%;
+    width: 100%;
+}
+.d28{
+    padding-top: 115.5px;
+
+}
+.d28 p{
+    font-size: 18px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.d28 h2{
+    font-size: 48px;
+    color: #b01c1a;
+    font-family: "Fondamento", cursive;
+    margin-top: -12px;
+}
+.d28 a{
+    text-decoration: none;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 18px;
+}
+.d28 button{
+    height: 55px;
+    width: 228px;
+    display: block;
+    background-image:url(https://ptal.in/cdn/shop/t/7/assets/btn-bg.svg?v=8971955%E2%80%A6);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 15px;
+    color: white;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 700;
+    border: none;
+    margin-top: 10px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -10px;
+}
+
+
+
+.main12{
+    height: 348px;
+    background: #F5E7CB url(img/1082.svg) center;
+    margin: 70px 0px;
+    padding: 70px 0px;
+}
+.main12 p{
+    font-size: 22px;
+    color: #0d0d0d;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+}
+.main12 img{
+    margin: 0px 25px;
+}
+.d29{
+    width: 480px;
+    padding-top: 20px;
 }
